@@ -5,7 +5,7 @@
 ```sh
 $ open https://cmake.org/Wiki/CMake:CPackPackageGenerators
 ```
-[![Build Status](https://travis-ci.com/Lam0Rka/lab666.svg?branch=main)](https://travis-ci.com/Lam0Rka/lab666)
+[![Build Status](https://travis-ci.com/Rogopl/lab06_tutorial.svg?branch=master)](https://travis-ci.com/Rogopl/lab06_tutorial)
 ## Tasks
 
 - [ ] 1. Создать публичный репозиторий с названием **lab06** на сервисе **GitHub**
